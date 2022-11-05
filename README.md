@@ -20,13 +20,14 @@
 ## ScreenShots
 
 <div style="display:flex;flex-wrap:wrap;">
-<img src="https://user-images.githubusercontent.com/97884033/200117053-6fa2dce4-0505-4cf1-877e-279ab76f8141.jpg" />
-  <img src="https://user-images.githubusercontent.com/97884033/200117056-89b8c7a8-422f-4052-92b9-a852a5f9a16b.jpg" />
-  <img src="https://user-images.githubusercontent.com/97884033/200117018-e11f5f64-4af9-4316-bde9-ed1745f69b1c.jpg" />
-  <img src="https://user-images.githubusercontent.com/97884033/200117029-8c85b886-ed90-40d8-9dbf-20807c19992c.jpg" />
+<img src="https://user-images.githubusercontent.com/97884033/200117053-6fa2dce4-0505-4cf1-877e-279ab76f8141.jpg" width="300px" height="650px"/>
+  <img src="https://user-images.githubusercontent.com/97884033/200117056-89b8c7a8-422f-4052-92b9-a852a5f9a16b.jpg" width="300px" height="650px"/>
+  <img src="https://user-images.githubusercontent.com/97884033/200117018-e11f5f64-4af9-4316-bde9-ed1745f69b1c.jpg" width="300px" height="650px"/>
+  <img src="https://user-images.githubusercontent.com/97884033/200117029-8c85b886-ed90-40d8-9dbf-20807c19992c.jpg" width="300px" height="650px"/>
 </div>
 
 ## Bugs (Things to Fix/Add)
 
 -Calculation of last 3 months  expenses error.
+
 -Change in Bar Graph Maths technique.
