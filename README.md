@@ -1,16 +1,35 @@
-# expenses
+# Expenses App
 
-Expense Project
+-This App is used to store and manage your weekly monthly expenses.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+• User can add and delete - title,amount date of expenses.
 
-A few resources to get you started if this is your first Flutter project:
+• All the data are stored in user’s device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Created a visual representation(Bar Graph) of expenses of last 7 days for better user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• User can sort their data by amount of expenses as well as by date of expenses.
+
+## Tech-Stack
+-Flutter
+-Dart
+-Sqflite
+
+## ScreenShots
+
+<div style="display:flex;flex-wrap:wrap;">
+<img src="https://user-images.githubusercontent.com/97884033/200117053-6fa2dce4-0505-4cf1-877e-279ab76f8141.jpg" width="300px" height="620px" />
+
+<!-- ![1]()
+  
+![2](https://user-images.githubusercontent.com/97884033/200117056-89b8c7a8-422f-4052-92b9-a852a5f9a16b.jpg)
+
+![3](https://user-images.githubusercontent.com/97884033/200117018-e11f5f64-4af9-4316-bde9-ed1745f69b1c.jpg)
+  
+![4](https://user-images.githubusercontent.com/97884033/200117029-8c85b886-ed90-40d8-9dbf-20807c19992c.jpg) -->
+
+  
+  </div>
+
