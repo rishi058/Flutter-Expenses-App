@@ -17,6 +17,44 @@
 -Dart
 -Sqflite
 
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your_username/Flutter-Expenses-App.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Flutter-Expenses-App
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Run the application:
+
+    ```bash
+    flutter run
+    ```
+
+## Contributing
+
+Contributions to Vedicheals are welcome! Here are a few ways you can contribute:
+
+- Report bugs and request features by [creating an issue](https://github.com/DarkNinja15/VedicHeals/issues).
+- Submit pull requests to fix issues or add new features.
+
+
+## Acknowledgements
+
+Special thanks to the Flutter and Firebase communities for their invaluable contributions and support.
+
 ## ScreenShots
 
 <div style="display:flex;flex-wrap:wrap;">
