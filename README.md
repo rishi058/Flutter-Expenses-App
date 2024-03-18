@@ -63,9 +63,3 @@ Special thanks to the Flutter and Firebase communities for their invaluable cont
   <img src="https://user-images.githubusercontent.com/97884033/200117018-e11f5f64-4af9-4316-bde9-ed1745f69b1c.jpg" width="300px" height="650px"/>
   <img src="https://user-images.githubusercontent.com/97884033/200117029-8c85b886-ed90-40d8-9dbf-20807c19992c.jpg" width="300px" height="650px"/>
 </div>
-
-## Bugs (Things to Fix/Add)
-
--Calculation of last 3 months  expenses error.
-
--Change in Bar Graph Maths technique.
