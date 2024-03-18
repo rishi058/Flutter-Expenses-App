@@ -3,7 +3,7 @@ import 'main.dart';
 import 'about.dart';
 import 'Monthly.dart';
 import 'package:intl/intl.dart';
-import 'package:flutter_complete_guide/sql_helper.dart';
+import 'sql_helper.dart';
 
 class MainDrawer extends StatefulWidget {
 
